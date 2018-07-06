@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: sams-pin
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: j0m02e7
+Implementation-Vendor-Id: com.sams.pin
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/sams-pin
+Created-By: Maven Integration for Eclipse
+

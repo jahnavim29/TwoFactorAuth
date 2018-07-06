@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Gather  timeout="10" numDigits="1">
+    <Say voice="alice" >Thank you for being a Sam's member. Your secure Pin is 1 2 3 4. Press # key to repeat.</Say>
+  </Gather>
+</Response>
